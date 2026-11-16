@@ -1,0 +1,24 @@
+{
+  "python 爬虫教程": [
+    "https://www.runoob.com/python3/python3-tutorial.html",
+    "https://example.com/python-crawler-guide",
+    "https://docs.python.org/3/"
+  ],
+  "playwright 自动化": [
+    "https://playwright.dev/python/docs/intro",
+    "https://example.com/playwright-intro",
+    "https://github.com/microsoft/playwright"
+  ],
+  "seo 关键词工具": [
+    "https://ahrefs.com/keyword-generator",
+    "https://example.org/seo-tools"
+  ],
+  "外贸 独立站": [
+    "https://example.net/foreign-trade-site",
+    "https://www.shopify.com/"
+  ],
+  "测试开发 面试": [
+    "https://example.com/qa-interview",
+    "https://www.nowcoder.com/"
+  ]
+}
